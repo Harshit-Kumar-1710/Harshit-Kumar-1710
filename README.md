@@ -4,9 +4,9 @@
 
 🎓 BTech CSE Student | 💻 Aspiring Software Engineer | 🧠 Problem Solver
 
-💻 Passionate about coding, algorithms, and building efficient real-world solutions
-📚 Currently exploring **DSA, Cybersecurity, and Full Stack Web Development (MERN Stack)**
-🎯 Always eager to learn and improve my development skills
+💻 Passionate about coding, algorithms, and building efficient real-world solutions<br>
+📚 Currently exploring **DSA, Cybersecurity, and Full Stack Web Development (MERN Stack)**<br>
+🎯 Always eager to learn and improve my development skills<br>
 
 🔗 Check out my projects and feel free to connect!
 
@@ -59,9 +59,9 @@
 # 🚀 Projects:
 
 🔹 **AI Assisted Query Optimizer**
-➡️ Built a system to detect inefficient SQL queries and generate optimized alternatives
-➡️ Used PostgreSQL query planner & EXPLAIN ANALYZE for benchmarking
-➡️ Applied ML (XGBoost) to identify high-performance query patterns 
+➡️ Built a system to detect inefficient SQL queries and generate optimized alternatives<br>
+➡️ Used PostgreSQL query planner & EXPLAIN ANALYZE for benchmarking<br>
+➡️ Applied ML (XGBoost) to identify high-performance query patterns<br>
 
 🔹 **Expense Tracker**
 ➡️ Tracks daily expenses, manages budgets, and provides financial insights
@@ -73,17 +73,17 @@
 
 # 📜 Certifications:
 
-🏅 AWS Certified Cloud Practitioner — Amazon Web Services
-🏅 Cybersecurity Attack & Defense Fundamentals — Coursera
-🏅 Google Foundations of Cybersecurity — Coursera
-🏅 IIT-led Placement Certified Hackathon — Explorin Academy 
+🏅 AWS Certified Cloud Practitioner — Amazon Web Services<br>
+🏅 Cybersecurity Attack & Defense Fundamentals — Coursera<br>
+🏅 Google Foundations of Cybersecurity — Coursera<br>
+🏅 IIT-led Placement Certified Hackathon — Explorin Academy<br>
 
 ---
 
 # 🏆 Achievements:
 
-🥇 Secured **1st Rank in DSA Coding Contest** (IIT-led Placement Hackathon)
-🏅 Academic **Topper of 3rd Semester**, awarded at Achiever’s Meet (April 2025) 
+🥇 Secured **1st Rank in DSA Coding Contest** (IIT-led Placement Hackathon)<br>
+🏅 Academic **Topper of 3rd Semester**, awarded at Achiever’s Meet (April 2025)<br> 
 
 ---
 
@@ -99,8 +99,8 @@
 
 # ⚡ Goals:
 
-🎯 Solve 500+ DSA problems
-🚀 Crack top tech internships (JP Morgan, etc.)
+🎯 Solve 500+ DSA problems and improve problem solving skills
+🚀 Crack Top Tech Companies (JP Morgan, Amazon, Google etc.)
 📈 Build impactful full-stack and AI-based projects
 
 ---
