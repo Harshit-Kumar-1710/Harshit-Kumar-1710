@@ -49,13 +49,12 @@
 ### 🛠️ Tools & Libraries
 
 ![Git](https://img.shields.io/badge/Git-black?logo=git\&style=for-the-badge)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code\&logoColor=white\&style=for-the-badge)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-black?logo=kalilinux\&style=for-the-badge)
 ![Pandas](https://img.shields.io/badge/Pandas-black?logo=pandas\&style=for-the-badge)
 ![NumPy](https://img.shields.io/badge/NumPy-blue?logo=numpy\&style=for-the-badge)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-orange?logo=python\&style=for-the-badge)
-![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws\&logoColor=white\&style=for-the-badge)
-
+![AWS](https://img.shields.io/badge/AWS-FF9900?logo=amazonaws&logoColor=black&style=for-the-badge)
 
 
 ---
