@@ -33,18 +33,18 @@
 
 ### 🌐 Web Development (MERN)
 
-![HTML5](https://img.shields.io/badge/HTML5-red?logo=html5&logoColor=white&style=for-the-badge)
-![CSS3](https://img.shields.io/badge/CSS3-blue?logo=css3&logoColor=white&style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=black&style=for-the-badge)
-![React](https://img.shields.io/badge/React-black?logo=react&style=for-the-badge)
-![Node.js](https://img.shields.io/badge/Node.js-green?logo=node.js&style=for-the-badge)
-![Express.js](https://img.shields.io/badge/Express.js-black?logo=express&style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/MongoDB-green?logo=mongodb&style=for-the-badge)
+![HTML5](https://img.shields.io/badge/HTML5-red?logo=html5\&logoColor=white\&style=for-the-badge)
+![CSS3](https://img.shields.io/badge/CSS3-blue?logo=css3\&logoColor=white\&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript\&logoColor=black\&style=for-the-badge)
+![React](https://img.shields.io/badge/React-black?logo=react\&style=for-the-badge)
+![Node.js](https://img.shields.io/badge/Node.js-green?logo=node.js\&style=for-the-badge)
+![Express.js](https://img.shields.io/badge/Express.js-black?logo=express\&style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-green?logo=mongodb\&style=for-the-badge)
 
 ### 🗄️ Databases
 
-![MySQL](https://img.shields.io/badge/MySQL-blue?logo=mysql&style=for-the-badge)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?logo=postgresql&style=for-the-badge)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?logo=mysql\&logoColor=white\&style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql\&logoColor=white\&style=for-the-badge)
 
 ### 🛠️ Tools & Libraries
 
@@ -88,14 +88,6 @@
 🏅 Academic **Topper of 3rd Semester**, awarded at Achiever’s Meet (April 2025)<br> 
 
 ---
-
-# 📊 GitHub Stats:
-
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=tokyonight\&hide_border=true)
-
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME\&theme=tokyonight\&hide_border=true)
-
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&theme=tokyonight\&hide_border=true)
 
 ---
 
