@@ -34,7 +34,7 @@
 ### 🌐 Web Development (MERN)
 
 ![HTML5](https://img.shields.io/badge/HTML5-red?logo=html5\&logoColor=white\&style=for-the-badge)
-![CSS3](https://img.shields.io/badge/CSS3-blue?logo=css3\&logoColor=white\&style=for-the-badge)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3\&logoColor=white\&style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript\&logoColor=black\&style=for-the-badge)
 ![React](https://img.shields.io/badge/React-black?logo=react\&style=for-the-badge)
 ![Node.js](https://img.shields.io/badge/Node.js-green?logo=node.js\&style=for-the-badge)
@@ -49,7 +49,7 @@
 ### 🛠️ Tools & Libraries
 
 ![Git](https://img.shields.io/badge/Git-black?logo=git&style=for-the-badge)
-![VS Code](https://img.shields.io/badge/VS_Code-blue?logo=visualstudiocode&style=for-the-badge)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode\&logoColor=white\&style=for-the-badge)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-black?logo=kalilinux&style=for-the-badge)
 ![Pandas](https://img.shields.io/badge/Pandas-black?logo=pandas&style=for-the-badge)
 ![NumPy](https://img.shields.io/badge/NumPy-blue?logo=numpy&style=for-the-badge)
