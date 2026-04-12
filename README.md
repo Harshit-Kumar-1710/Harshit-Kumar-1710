@@ -63,7 +63,7 @@
 # 🚀 Projects:
 
 🔹 **Expense Tracker** <br>
-➡️ Built a Full-Stack Web Application using Flask to manage daily expenses with secure user authentication and handling<br> 
+➡️ Built a Full-Stack Web Application using Flask to manage daily expenses with secure user authentication<br> 
 ➡️ Implemented CRUD operations for transactions and categories with structured backend logic<br>
 ➡️ Designed relational database schema and used PostgreSQL for efficient data storage and retrieval<br>
 ➡️ Deployed the application on Render with Supabase for persistent database management<br>
