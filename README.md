@@ -14,10 +14,10 @@
 
 # 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin\&style=for-the-badge)](YOUR_LINKEDIN)
-[![LeetCode](https://img.shields.io/badge/LeetCode-orange?logo=leetcode\&style=for-the-badge)](YOUR_LEETCODE_LINK)
-[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github\&style=for-the-badge)](https://github.com/YOUR_USERNAME)
-[![Email](https://img.shields.io/badge/Email-red?logo=gmail\&style=for-the-badge)](mailto:YOUR_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin\&style=for-the-badge)](https://www.linkedin.com/in/harshit-kumar-449017248/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-orange?logo=leetcode\&style=for-the-badge)](https://leetcode.com/u/HarshitAimer/)
+[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github\&style=for-the-badge)](https://github.com/Harshit-Kumar-1710?tab=repositories)
+[![Email](https://img.shields.io/badge/Email-red?logo=gmail\&style=for-the-badge)](mailto:hr171004@gmail.com)
 
 ---
 
