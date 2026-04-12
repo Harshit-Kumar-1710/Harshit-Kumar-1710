@@ -62,10 +62,10 @@
 # 🚀 Projects:
 
 🔹 **Expense Tracker**
-➡️ Built a full-stack web application to manage daily expenses with secure user authentication and session handling  
-➡️ Implemented CRUD operations for transactions and categories with structured backend logic  
-➡️ Designed relational database schema and used PostgreSQL for efficient data storage and retrieval  
-➡️ Deployed the application on Render with Supabase for persistent database management
+➡️ Built a full-stack web application to manage daily expenses with secure user authentication and session handling<br> 
+➡️ Implemented CRUD operations for transactions and categories with structured backend logic<br>
+➡️ Designed relational database schema and used PostgreSQL for efficient data storage and retrieval<br>  
+➡️ Deployed the application on Render with Supabase for persistent database management<br>
 
 
 🔹 **AI Assisted Query Optimizer**
