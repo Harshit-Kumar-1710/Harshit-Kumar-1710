@@ -40,6 +40,7 @@
 ![Node.js](https://img.shields.io/badge/Node.js-green?logo=node.js\&style=for-the-badge)
 ![Express.js](https://img.shields.io/badge/Express.js-black?logo=express\&style=for-the-badge)
 ![MongoDB](https://img.shields.io/badge/MongoDB-green?logo=mongodb\&style=for-the-badge)
+![Flask](https://img.shields.io/badge/Flask-black?logo=flask&style=for-the-badge)
 
 ### 🗄️ Databases
 
@@ -62,9 +63,9 @@
 # 🚀 Projects:
 
 🔹 **Expense Tracker** <br>
-➡️ Built a full-stack web application to manage daily expenses with secure user authentication and session handling<br> 
+➡️ Built a full-stack web application using Flask to manage daily expenses with secure user authentication and session handling<br> 
 ➡️ Implemented CRUD operations for transactions and categories with structured backend logic<br>
-➡️ Designed relational database schema and used PostgreSQL for efficient data storage and retrieval 
+➡️ Designed relational database schema and used PostgreSQL for efficient data storage and retrieval<br>
 ➡️ Deployed the application on Render with Supabase for persistent database management<br>
 
 
