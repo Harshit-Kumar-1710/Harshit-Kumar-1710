@@ -63,7 +63,7 @@
 # 🚀 Projects:
 
 🔹 **Expense Tracker** <br>
-➡️ Built a full-stack web application using Flask to manage daily expenses with secure user authentication and session handling<br> 
+➡️ Built a Full-Stack Web Application using Flask to manage daily expenses with secure user authentication and handling<br> 
 ➡️ Implemented CRUD operations for transactions and categories with structured backend logic<br>
 ➡️ Designed relational database schema and used PostgreSQL for efficient data storage and retrieval<br>
 ➡️ Deployed the application on Render with Supabase for persistent database management<br>
@@ -102,9 +102,9 @@
 
 # ⚡ Goals:
 
-🎯 Solve 500+ DSA problems and improve problem solving skills
-🚀 Crack Top Tech Companies (JP Morgan, Amazon, Google etc.)
-📈 Build impactful full-stack and AI-based projects
+🎯 Solve 500+ DSA problems and improve problem solving skills<br>
+🚀 Crack Top Tech Companies (JP Morgan, Amazon, Google etc.)<br>
+📈 Build impactful full-stack and AI-based projects<br>
 
 ---
 
