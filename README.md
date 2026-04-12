@@ -61,16 +61,24 @@
 
 # 🚀 Projects:
 
+🔹 **Expense Tracker**
+➡️ Built a full-stack web application to manage daily expenses with secure user authentication and session handling  
+➡️ Implemented CRUD operations for transactions and categories with structured backend logic  
+➡️ Designed relational database schema and used PostgreSQL for efficient data storage and retrieval  
+➡️ Added budget tracking with automated email alerts when spending exceeds limits  
+➡️ Integrated password reset functionality using secure token-based links  
+➡️ Deployed the application on Render with Supabase for persistent database management 
+
+
 🔹 **AI Assisted Query Optimizer**
 ➡️ Built system to detect inefficient SQL queries and generate optimized alternatives<br>
 ➡️ Used PostgreSQL query planner & EXPLAIN ANALYZE for benchmarking<br>
 ➡️ Applied ML (XGBoost) to identify high-performance query patterns<br>
+ 
 
-🔹 **Expense Tracker**
-➡️ Tracks daily expenses, manages budgets, and provides financial insights
-
-🔹 **Ride Pooling System**
+🔹 **Ride Pooling System** (Work in Progress)
 ➡️ Matches riders and drivers efficiently for shared transportation
+
 
 ---
 
